@@ -1,0 +1,50 @@
+.container2{
+    display: flex;
+    margin-top: 200px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.conteudo2{
+    display: flex;
+    flex-direction: column;
+    width: 45%;
+    justify-content: center;
+}
+
+.img2 img{
+    width: 45%;
+    height: 400px;
+    width: 400px;
+    
+}
+
+.titulo2 h1{
+    margin-top: 0;
+}
+
+.texto2{
+    line-height: 23px;
+    font-size: 15px;
+    margin-top: 30px;
+}
+
+.lista{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+.item_lista2{
+    display: flex;
+    align-items: center;
+}
+
+.icon2{
+    
+    margin-right: 20px;
+    width: 30px;
+    height: 30px;
+    
+}

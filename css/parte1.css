@@ -1,0 +1,50 @@
+.container1{
+    display: flex;
+    margin-top: 100px;
+    justify-content: space-between;
+}
+
+.conteudo1{
+    display: flex;
+    flex-direction: column;
+    width: 45%;
+    justify-content: space-around;
+}
+
+.titulo1{
+    font-size: 20px;
+    width: 90%;
+}
+
+.texto1{
+    line-height: 23px;
+    font-size: 15px;
+}
+
+.logo a{
+    text-decoration: none;
+    color: black;
+}
+
+.botao1{
+    display: flex;
+    
+}
+
+.botao1 a{
+    padding: 20px 50px;
+    text-decoration: none;
+    
+}
+
+.sobre{
+    background-color: #213540;
+    border-radius: 5px;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.video1{
+    width: 450px;
+    
+}
